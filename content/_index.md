@@ -4,7 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: I help
+    title: >-
+      I help social good organizations make the most of technology for
+      themselves and the communities they serve.
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
