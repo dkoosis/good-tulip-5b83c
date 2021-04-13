@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: This is a short page about us and our work.
-image: images/53cbh3.jpg
+image: images/Screenshot 2021-02-19 10.28.01 PM.png
 image_alt: A man taking a picture
 seo:
   title: About Us
