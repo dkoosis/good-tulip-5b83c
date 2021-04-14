@@ -46,7 +46,7 @@ params:
         icon: dribbble
         new_window: true
       - label: LinkedIn
-        url: 'https://www.linkedin.com/'
+        url: 'https://www.linkedin.com/davidkoosis'
         style: icon
         icon: linkedin
         new_window: true
