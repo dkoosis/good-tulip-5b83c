@@ -36,7 +36,7 @@ params:
         icon: twitter
         new_window: true
       - label: Instagram
-        url: 'https://www.instagram.com/'
+        url: 'https://www.instagram.com/dkoosis'
         style: icon
         icon: instagram
         new_window: true
