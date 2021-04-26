@@ -4,7 +4,7 @@ params:
   color_scheme: light
   accent_color: pink
   header:
-    title: Your Fractional CIO
+    title: npCIO
     has_nav: true
     nav_links:
       - label: Home
