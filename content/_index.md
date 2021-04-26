@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: button
     title: >-
-      Hello! I help mission-driven organizations make the most of technology for
+      Hello! I help nonprofit organizations make the most of technology for
       themselves, and for the people they serve.
   - section_id: latest-projects
     type: section_portfolio
