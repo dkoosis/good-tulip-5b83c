@@ -14,14 +14,6 @@ sections:
     title: >-
       Hello! I help non-profit organizations make the most of technology for
       themselves, and for the people they serve.
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Recent Work
-    subtitle: An optional subtitle of the section
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - section_id: services
     type: section_grid
     title: What We Do
