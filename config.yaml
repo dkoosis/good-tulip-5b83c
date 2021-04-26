@@ -19,6 +19,7 @@ params:
       - label: Contact
         url: /contact/
         style: link
+    logo_img: images/Screenshot 2021-04-26 4.31.23 PM.png
   footer:
     content: '&copy; Visible Venture. All rights reserved.'
     has_social: true
