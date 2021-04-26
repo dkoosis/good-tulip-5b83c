@@ -11,6 +11,10 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
+    title: >-
+      Hello! I'm a technology & digital product leader dedicated to helping
+      mission-driven organizations make the most of technology for themselves,
+      and for the people and communities they serve
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
