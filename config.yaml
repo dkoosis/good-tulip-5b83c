@@ -11,7 +11,7 @@ params:
         url: /
         style: link
       - label: Services
-        url: /portfolio/
+        url: /services/
         style: link
       - label: About
         url: /about/
