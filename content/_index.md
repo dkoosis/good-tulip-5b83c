@@ -13,7 +13,7 @@ sections:
         style: button
     title: >-
       Hello! I help mission-driven organizations make the most of technology for
-      themselves, and for the people and communities they serve.
+      themselves, and for the people they serve.
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
