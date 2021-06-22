@@ -1,7 +1,6 @@
 ---
 title: About Us
 subtitle: This is a short page about us and our work.
-image: images/scientific-zucchini.png
 image_alt: A man taking a picture
 seo:
   title: About Us
